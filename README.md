@@ -3,11 +3,6 @@
 A simple and interactive Voice Assistant built using Python. It listens to voice commands, processes them, and responds with voice output.
 
 ---
-
-## 🚀 Live Demo
-
-👉 Coming Soon
-
 ---
 
 ## 📌 Features
@@ -37,7 +32,6 @@ A simple and interactive Voice Assistant built using Python. It listens to voice
 Voice_Assistance/
 │
 ├── f.py
-├── requirements.txt
 └── README.md
 ```
 
@@ -80,20 +74,6 @@ python f.py
 - 📅 Calendar Management
 
 ---
-
-## 📸 Screenshot
-
-Add your project screenshot here.
-
-```md
-![Voice Assistant Screenshot](screenshot.png)
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork this repository and submit a pull request.
 
 ---
 
